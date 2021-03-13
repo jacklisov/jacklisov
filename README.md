@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacklisov
-- 👀 I’m interested in python, C++ and kotlin
+- 👀 I’m interested in Python, C++ and Kotlin
 - 🌱 I’m currently learning C++, because it's a powerfull programming language 
 
 <!---
